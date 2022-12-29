@@ -1,4 +1,4 @@
-### Hi, I'm Cauã Amaral
+### Olá eu sou o Cauã Amaral, estudante de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/CauaAmarall">
